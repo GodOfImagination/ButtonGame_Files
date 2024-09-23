@@ -40,16 +40,6 @@ public class Gameplay : MonoBehaviour
         {
             pusherA.transform.position += -transform.forward * timeToMove;
         }
-
-        if (Input.GetKey(KeyCode.B))
-        {
-            pusherB.transform.position += -transform.forward * timeToMove;
-        }
-
-        if (Input.GetKey(KeyCode.C))
-        {
-            pusherC.transform.position += -transform.forward * timeToMove;
-        }
     }
 
     public void Correct()

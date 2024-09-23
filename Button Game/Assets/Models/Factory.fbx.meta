@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: granite-tile_material
-    second: {fileID: 2100000, guid: c7571d1bef8e748efb95618331e2b029, type: 2}
+      name: 9229-material
+    second: {fileID: 2100000, guid: 859d3be5d78b24ca9a70d4093263b83a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glass
+    second: {fileID: 2100000, guid: 7c71024ab24de4915afa6582a8819b44, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
